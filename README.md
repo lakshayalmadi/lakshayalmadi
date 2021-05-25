@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lakshayalmadi/lakshayalmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Lakshay 👋
+
+## I'm a Developer and Student! 
+
+- 🔭 Currently pursuing my Bachelor's degree at VIT
+- 💻 Front-end developer and Data Scientist
+- 📫 Reach out to me at lakshay.almadi.la@gmail.com
