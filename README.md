@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🔭 Currently pursuing my Bachelor's degree at VIT
 - 💻 Front-end developer and Data Scientist
 - 📫 Reach out to me at lakshay.almadi.la@gmail.com
+- 😄 Check out: https://lakshayalmadi.github.io/Portfolio/
