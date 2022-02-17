@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Lakshay 👋
 
-## I'm a Developer and Student! 
+## I'm a Developer and a Student! 
 
 - 🔭 Currently pursuing my Bachelor's degree at VIT
 - 💻 Front-end developer and Data Scientist
